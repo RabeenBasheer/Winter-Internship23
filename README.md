@@ -14,5 +14,6 @@ Week 3 - Google Collab
 Week 4 - Seaborn and other plotting tools to create an animated visualization
   1. Use 4 datasets: Country Population, Fertility rate, Life expectancy, and Metadata in CSV files
   2. Clean the datasets, Merge and plot to form the result
+  3. Familiarised with Seaborn, Plotlib, Melting etc.
 
 Week5 -      
