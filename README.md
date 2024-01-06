@@ -10,3 +10,9 @@ Week 2 - Python
 Week 3 - Google Collab
   1. Clean the dataset provided
   2. CSV and TSV File Management and manipulations
+
+Week 4 - Seaborn and other plotting tools to create an animated visualization
+  1. Use 4 datasets: Country Population, Fertility rate, Life expectancy, and Metadata in CSV files
+  2. Clean the datasets, Merge and plot to form the result
+
+Week5 -      
